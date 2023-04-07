@@ -1,4 +1,4 @@
-Dentelo - We Are Best Dental Service
+Kenmore Dentists - We Are Best Dental Service
 
 
 
@@ -8,14 +8,14 @@ Dentelo - We Are Best Dental Service
 info@example.com
 
 <ion-icon name="call-outline"></ion-icon>
-+91-7052-101-786
+(07) 3378 6297
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-instagram"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
 <ion-icon name="logo-youtube"></ion-icon>
 
-Dentelo.
+Kenmore Dentists.
 
 Home
 Services
@@ -34,7 +34,7 @@ aria-label = Toggle menu
 
 #---------- HERO ----------#
 
-Welcome To Dentelo
+Welcome To Kenmore Dentists
 
 We Are Best Dental Service
 
@@ -193,13 +193,13 @@ Shop 1/4 Wongabel St
 Kenmore QLD 4069
 
 <ion-icon name="call-outline"></ion-icon>
-+91-7052-101-786
+(07) 3378 6297
 
 <ion-icon name="mail-outline"></ion-icon>
 help@example.com
 
 
-&copy; 2022 All Rights Reserved by codewithsadee.
+&copy; 2022 All Rights Reserved by McKAy IT Solutions.
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-instagram"></ion-icon>
