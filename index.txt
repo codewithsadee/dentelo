@@ -189,8 +189,8 @@ Cavity Inspection
 Contact Us
 
 <ion-icon name="location-outline"></ion-icon>
-1247/Plot No. 39, 15th Phase,
-LHB Colony, Kanpur
+Shop 1/4 Wongabel St
+Kenmore QLD 4069
 
 <ion-icon name="call-outline"></ion-icon>
 +91-7052-101-786
